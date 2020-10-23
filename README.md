@@ -6,10 +6,11 @@
 * Recommendations and business insights were visually presented with Tableau.<br/>
 
 ## Team Members:
+Anchal <br/>
 Shahram<br/>
 Ovo <br/>
 Nirosha <br/>
-Anchal <br/>
+
 
 ## Dataset
 Project dataset can be downloaded from: <br/>
