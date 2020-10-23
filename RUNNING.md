@@ -1,8 +1,8 @@
 # A Deeper Analysis of Restaurants using Yelp Dataset
 
-Project extracting key topics using LDA technique from the entire corpus of customer reviews that help business owners to know the key factors affecting the business. <br/>
-After performing ETL and integrating business data, neighborhood data and sentiment scores of reviews, predictive model  was buuilt using GradientBoost Regressor that recommended the restaurant to user.<br/>
-Recommendations and business insights were visually presented with Tableau.<br/>
+* Project extracting key topics using LDA technique from the entire corpus of customer reviews that help business owners to know the key factors affecting the business. <br/>
+* After performing ETL and integrating business data, neighborhood data and sentiment scores of reviews, predictive model  was buuilt using GradientBoost Regressor that recommended the restaurant to user.<br/>
+* Recommendations and business insights were visually presented with Tableau.<br/>
 
 ## Team Members:
 Shahram<br/>
@@ -10,7 +10,7 @@ Ovo <br/>
 Nirosha <br/>
 Anchal <br/>
 
-##Dataset
+## Dataset
 Project dataset can be downloaded from: <br/>
 
 https://www.yelp.com/dataset/download <br/>
